@@ -10,7 +10,6 @@
 
 Independent integrations and reference applications for Yii3.
 
-Explore debugging tools, an Inertia adapter, and a Vue reference application.
 This organization is separate from the official Yii project at
 [yiisoft](https://github.com/yiisoft). Read each repository's installation and
 compatibility notes before choosing a version.
@@ -26,17 +25,6 @@ Read the
 [contribution guide](https://github.com/yii3/.github/blob/main/CONTRIBUTING.md)
 before proposing a change. For security concerns, follow the
 [security policy](https://github.com/yii3/.github/blob/main/SECURITY.md).
-
-## Related projects
-
-Explore [php-forge](https://github.com/php-forge),
-[ui-awesome](https://github.com/ui-awesome),
-[yii2-extensions](https://github.com/yii2-extensions), and
-[yii2-framework](https://github.com/yii2-framework).
-
-These are independent project collections. They and the documentation portal
-are not official Yii resources. For upstream Yii, visit
-[yiisoft](https://github.com/yiisoft).
 
 ## Support this work
 
