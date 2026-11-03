@@ -1,32 +1,32 @@
-<!-- markdownlint-disable MD041 -->
-<div align="center">
+<!-- markdownlint-disable MD013 MD033 -->
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yii3/.github/main/profile/assets/yii3-cover-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yii3/.github/main/profile/assets/yii3-cover-light.png">
+    <img src="https://raw.githubusercontent.com/yii3/.github/main/profile/assets/yii3-cover-light.png" alt="yii3" width="1280">
+  </picture>
+</h1>
+<!-- markdownlint-enable MD013 MD033 -->
 
-# Yii3
+Independent integrations and reference applications for Yii3.
 
-<strong>Packages, application templates and agent skills for Yii3</strong>
+This organization is separate from the official Yii project at
+[yiisoft](https://github.com/yiisoft). Read each repository's installation and
+compatibility notes before choosing a version.
 
-</div>
-<!-- markdownlint-enable MD041 -->
+## Documentation and contribution
 
----
+Use each repository's README for installation and integration instructions. The
+[independent documentation portal](https://yii2-framework.github.io/docs/)
+provides wider ecosystem context; it is not a documentation index for these
+Yii3 packages.
 
-## Packages
+Read the
+[contribution guide](https://github.com/yii3/.github/blob/main/CONTRIBUTING.md)
+before proposing a change. For security concerns, follow the
+[security policy](https://github.com/yii3/.github/blob/main/SECURITY.md).
 
-| Package                                                    | Description                                               |
-| ---------------------------------------------------------- | --------------------------------------------------------- |
-| [debug](https://github.com/yii3/debug)                     | Debugger and toolbar for Yii3 applications.               |
-| [inertia](https://github.com/yii3/inertia)                 | Inertia.js v3 server-side integration for Yii3.           |
-| [app-inertia-vue](https://github.com/yii3/app-inertia-vue) | Application template powered by Inertia 3 and Vue 3.      |
-| [skill](https://github.com/yii3/skill)                     | Portable agent skills for Yii3 applications and packages. |
+## Support this work
 
-## Part of the Ecosystem
-
-Maintained by the core team of [yii2-framework](https://github.com/yii2-framework) and [yii2-extensions](https://github.com/yii2-extensions), together with [php-forge](https://github.com/php-forge) and [ui-awesome](https://github.com/ui-awesome).
-
----
-
-<div align="center">
-  <a href="https://github.com/sponsors/terabytesoftw">
-    <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor yii3 on GitHub" height="40" />
-  </a>
-</div>
+If this work is useful to you, consider
+[sponsoring @terabytesoftw on GitHub](https://github.com/sponsors/terabytesoftw).
