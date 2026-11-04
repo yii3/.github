@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 MD033 -->
+<!-- markdownlint-disable MD033 -->
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yii3/.github/main/profile/assets/yii3-cover-dark.png">
@@ -6,25 +6,21 @@
     <img src="https://raw.githubusercontent.com/yii3/.github/main/profile/assets/yii3-cover-light.png" alt="yii3" width="1280">
   </picture>
 </h1>
-<!-- markdownlint-enable MD013 MD033 -->
+<!-- markdownlint-enable MD033 -->
 
 Independent integrations and reference applications for Yii3.
 
-This organization is separate from the official Yii project at
-[yiisoft](https://github.com/yiisoft). Read each repository's installation and
-compatibility notes before choosing a version.
+This organization is separate from the official Yii project at [yiisoft](https://github.com/yiisoft). Read each
+repository's installation and compatibility notes before choosing a version.
 
 ## Documentation and contribution
 
 Use each repository's README for installation and integration instructions. The
-[independent documentation portal](https://yii2-framework.github.io/docs/)
-provides wider ecosystem context; it is not a documentation index for these
-Yii3 packages.
+[independent documentation portal](https://yii2-framework.github.io/docs/) provides wider ecosystem context; it is not a
+documentation index for these Yii3 packages.
 
-Read the
-[contribution guide](https://github.com/yii3/.github/blob/main/CONTRIBUTING.md)
-before proposing a change. For security concerns, follow the
-[security policy](https://github.com/yii3/.github/blob/main/SECURITY.md).
+Read the [contribution guide](https://github.com/yii3/.github/blob/main/CONTRIBUTING.md) before proposing a change. For
+security concerns, follow the [security policy](https://github.com/yii3/.github/blob/main/SECURITY.md).
 
 ## Support this work
 
